@@ -34,7 +34,6 @@ class ElevatorController {
         return null; // No available elevators
     }
     
-    // Other methods for handling elevator movements, floor requests, etc.
 }
 
 class Elevator {
@@ -58,7 +57,6 @@ class Elevator {
         $this->destinationFloor = $destinationFloor;
     }
     
-    // Other methods for elevator movement, reaching destination, etc.
 }
 
 // Example usage
